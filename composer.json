@@ -1,5 +1,5 @@
 {
-    "name": "gathuku/laravelmpesa",
+    "name": "afzidan/laravelmpesa",
     "description": "A simple mpesa package for laravel framework",
     "homepage": "https://github/gathuku/laravel_mpesa",
     "keywords": [
@@ -18,7 +18,7 @@
     "minimum-stability": "dev",
     "require": {
       "php": "^7.1|^8.0",
-      "illuminate/support": "^5.0|^6.0|^7.0|^8.0"
+      "illuminate/support": "^5.0|^6.0|^7.0|^8.0|^9.0"
     },
     "require-dev": {
        "orchestra/testbench": "^4.0",
