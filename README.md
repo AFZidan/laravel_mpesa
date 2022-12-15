@@ -3,7 +3,7 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/414b845bd4ec44a1894d4f7a7499c227)](https://app.codacy.com/app/gathuku/laravel_mpesa?utm_source=github.com&utm_medium=referral&utm_content=gathuku/laravel_mpesa&utm_campaign=Badge_Grade_Dashboard)
 [![Latest Version](https://img.shields.io/github/release/gathuku/laravel_mpesa.svg?style=flat-square)](https://github.com/gathuku/laravel_mpesa/releases)
 [![Issues](https://img.shields.io/github/issues/gathuku/laravel_mpesa.svg?style=flat-square)](https://github.com/gathuku/laravel_mpesa/issues)
-[![Total Downloads](https://img.shields.io/packagist/dt/gathuku/laravelmpesa.svg?style=flat-square)](https://packagist.org/packages/gathuku/laravelmpesa)
+[![Total Downloads](https://img.shields.io/packagist/dt/gathuku/laravelmpesa.svg?style=flat-square)](https://packagist.org/packages/afzidan/laravelmpesa)
 [![Twiter](https://img.shields.io/twitter/url/https/github.com/gathuku/laravel_mpesa.svg?style=social?style=social)](https://twitter.com/Gathukumose)
 
 
@@ -25,7 +25,7 @@ You are looking at it. But we've also got [beautiful, fully navigable docs](http
 You can install this awesome package via composer
 
 ```sh
-composer require gathuku/laravelmpesa
+composer require afzidan/laravelmpesa
 ```
 If you're using Laravel >=5.5, this is all you have to do.
 
